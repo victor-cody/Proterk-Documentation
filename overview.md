@@ -1,6 +1,6 @@
 # Introduction to Protekt
 
-Protekt is an **API-first authentication and identity management platform** that helps developers add secure login, user management, and access control to their applications without having to build authentication from scratch.
+Protekt is an **API-first authentication and identity management platform** that enables developers to add secure login, user management, and access control to their applications without having to build authentication from scratch.
 
 Instead of spending weeks designing login flows, token handling, and compliance checks, you can integrate Protekt in minutes using our SDKs, APIs, and pre-built UI components.
 
@@ -8,7 +8,9 @@ Instead of spending weeks designing login flows, token handling, and compliance 
 
 ## Why Protekt?
 
-Building authentication is complex and error-prone. Developers face challenges like:
+To buy or build? That’s the question almost all developers ask when integrating authentication into a product.
+
+Building authentication from the ground up is complex and error-prone. Along the way, developers face challenges like:
 
 - **Security risks**: Handling passwords, tokens, and encryption incorrectly leaves apps vulnerable.
 - **Time to market**: Implementing secure authentication can take weeks away from core product features.
